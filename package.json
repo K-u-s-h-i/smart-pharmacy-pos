@@ -1,0 +1,11 @@
+{
+  "name": "pharmacy-pos-root",
+  "private": true,
+  "scripts": {
+    "start": "cd pharmacy-pos-main && npm run start",
+    "dev": "cd pharmacy-pos-main && npm run dev",
+    "install": "cd pharmacy-pos-main && npm install",
+    "build": "cd pharmacy-pos-main && npm run build",
+    "test": "cd pharmacy-pos-main && npm test"
+  }
+}
